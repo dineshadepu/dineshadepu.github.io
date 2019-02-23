@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Research Scholar in Aerospace Engineering department, IIT Bombay. I
+work on particle methods.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[adepu.dinesh.a@gmail.com](mailto:email@domain.com)
