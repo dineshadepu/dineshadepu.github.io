@@ -22,7 +22,7 @@ author: Dinesh Adepu
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Blog: ""
+  Blog: "/"
 
 ################
 # --- Logo --- #
@@ -50,7 +50,7 @@ round-avatar: true
 social-network-links:
   email: "adepu.dinesh.a@gmail.com"
   github: dineshadepu
-  linkedin: dinesh-adepu-2640992a1
+  linkedin: dinesh-adepu-88b3583b5
 #  rss: true
 #  twitter: yourname
 #  medium: yourname
