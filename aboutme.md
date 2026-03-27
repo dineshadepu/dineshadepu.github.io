@@ -1,16 +1,36 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Researcher in computational mechanics and multi-physics simulations
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Who I Am
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm **Dinesh Adepu**, a researcher at the TESLA Group, IIT Delhi. My work sits at the intersection of computational mechanics, fluid dynamics, and solid mechanics. I build numerical methods and simulation tools to understand complex physical phenomena — from fluid splashing to particle swelling in batteries.
 
-What else do you need?
+## Education
 
-### My story
+- **Ph.D.** in Aerospace Engineering
+- **M.Tech** in Aerospace Engineering
+- **B.Tech** in Aerospace Engineering
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Research Interests
+
+- Smoothed Particle Hydrodynamics (SPH)
+- Discrete Element Method (DEM)
+- Coupled SPH-DEM for fluid-structure interaction
+- Elastic-plastic deformation and erosion modeling
+- Battery particle swelling and multi-physics simulations
+- Fluid-solid interaction problems
+
+## Thesis
+
+**"Coupled Smoothed Particle Hydrodynamics – Discrete Element Method for Fluid and Solid Mechanics"**
+[Download PDF](https://drive.google.com/file/d/17tcadpVhg7U1sY8wv5Flu93n9N9yUoO4/view?usp=sharing)
+
+## Contact
+
+- **Email:** adepu.dinesh.a@gmail.com
+- **GitHub:** [dineshadepu](https://github.com/dineshadepu)
+- **LinkedIn:** [dinesh-adepu](https://linkedin.com/in/dinesh-adepu-2640992a1)
+- **CV:** [View/Download](https://drive.google.com/file/d/104Ozflq_cyvOQut92v0xvfYm0JUgO6Xn/view?usp=sharing)
