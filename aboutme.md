@@ -33,4 +33,4 @@ I'm **Dinesh Adepu**, a researcher at the TESLA Group, IIT Delhi. My work sits a
 - **Email:** adepu.dinesh.a@gmail.com
 - **GitHub:** [dineshadepu](https://github.com/dineshadepu)
 - **LinkedIn:** [dinesh-adepu](https://linkedin.com/in/dinesh-adepu-2640992a1)
-- **CV:** [View/Download](https://drive.google.com/file/d/104Ozflq_cyvOQut92v0xvfYm0JUgO6Xn/view?usp=sharing)
+- **CV:** [View/Download](https://drive.google.com/file/d/1VC4TDoSxd52bElXprXq5ov3w10QNAtVK/view?usp=drive_link)
